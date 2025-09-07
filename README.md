@@ -1,7 +1,3 @@
-<h1 align="center">Xin chào 👋, Tôi là Vũ An Khánh</h1>
-<h3 align="center">Lập trình viên có thế mạnh về Front-End</h3>
-
-<h3 align="left">Ngôn ngữ lập trình và các công cụ tôi đã từng sử dụng:</h3>
 <h4 align="left">- Frontend:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -60,27 +56,5 @@
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-</p>
-<h4 align="left">- Các công cụ khác:</h4>
-<p>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-<hr>
-<h3 align="left">Kết nối với tôi:</h3>
-<p align="left">
-  <a href="https://fb.com/vu.khanh" target="blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vu.khanh" height="30" width="40"/>
-  </a>
-  <a href="https://vuankhanh.id.vn" target="blank" rel="noreferrer">
-    <img align="center" src="https://vuankhanh.id.vn/touring.ico" alt="cyclingjourney" height="40" width="40"/>
   </a>
 </p>
